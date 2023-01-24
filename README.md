@@ -1,4 +1,3 @@
 # LearningMachineLearning
 This repository is a collection of my machine learning endeavors. It will contain experiments, small and large projects, and different online courses that will show my growth overtime.
 
-This ReadMe will contain an index once this repository becomes too large and cumbersome to navigate.
