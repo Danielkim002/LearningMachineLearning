@@ -1,40 +1,40 @@
 # LearningMachineLearning
 This repository is a collection of my machine learning endeavors. It will contain experiments, small and large projects, and different online courses that will show my growth overtime.
 
-I. Free Code Camp
+# H1 I. Free Code Camp
 
-  1.Titanic Example:
+## H2  1.Titanic Example:
   
-    This is a simple jupyter file that contains basic tensorflow implementations of linear estimates
+### H3    This is a simple jupyter file that contains basic tensorflow implementations of linear estimates
     
-  2.Flower Classification Example:
+## H2  2.Flower Classification Example:
   
-    This is a jupyter file that contains a basic tensorflow implementation of a Dense NN classifier that can classify flowers based on the flowers measurements
+ ### H3   This is a jupyter file that contains a basic tensorflow implementation of a Dense NN classifier that can classify flowers based on the flowers measurements
     
-  3.Hidden Markov Example:
+## H2  3.Hidden Markov Example:
   
-    This jupyter file showcases an example of how to implements a hidden markov scenario in Tensorflow
+ ### H3   This jupyter file showcases an example of how to implements a hidden markov scenario in Tensorflow
     
-  4.Neural Networks
+## H2  4.Neural Networks
   
-    A.Clothing Example
+  ### H3  A.Clothing Example
     
-      This Jupyter file showcases a tensorflow keras implementation of a dense neural network that can classify items of clothing
+#### H4      This Jupyter file showcases a tensorflow keras implementation of a dense neural network that can classify items of clothing
       
-    B.CNN Example:
+  ### H3  B.CNN Example:
     
-      This jupyter file showcases CNN implementations in tensorflow, as well as certain data augmentation techniques. 
+#### H4      This jupyter file showcases CNN implementations in tensorflow, as well as certain data augmentation techniques. 
       
-    C.RNN Example:
+ ### H3   C.RNN Example:
     
-      This jupyter file showcases Reccurent NN implementations in tensorflow.
+#### H4      This jupyter file showcases Reccurent NN implementations in tensorflow.
       
-    D.RNN Play Generator:
+ ### H3   D.RNN Play Generator:
     
-      This jupyter file showcases a Play generator that can generate plays using a RNN made with TensorFlow
+ #### H4     This jupyter file showcases a Play generator that can generate plays using a RNN made with TensorFlow
       
-  5.Machine Learning Projects:
+## H2  5.Machine Learning Projects:
   
-    A.RPS
+ ### H3   A.RPS
     
-      This python repository is a challenge given by FCC to create a NN that can beat different algorithms in Rock Paper Scissors with a win rate of at least 60%
+   #### H4   This python repository is a challenge given by FCC to create a NN that can beat different algorithms in Rock Paper Scissors with a win rate of at least 60%
